@@ -67,7 +67,7 @@
 
               	   	        <!-- sub menu -->
               	   	        <ul class="dropdown">
-              	   	        	<li><a href="ubah-password">Ubah Password</a><li>
+              	   	        	<li><a href="ubah-password.php">Ubah Password</a><li>
               	   	        	<li><a href="logout.php">Keluar</a><li>
               	   	        </ul>
               	   	    </li>
